@@ -21,4 +21,6 @@ int main(){
     }
     delete[] I;
     return 0;
+    cout<<"okokok";
 }
+
